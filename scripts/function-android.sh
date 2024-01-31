@@ -170,10 +170,10 @@ get_target_cpu() {
     echo "arm"
     ;;
   arm-v7a-neon)
-    echo "arm-neon"
+    echo "armeabi-v7a"
     ;;
   arm64-v8a)
-    echo "arm64"
+    echo "arm64-v8a"
     ;;
   x86)
     echo "x86"
